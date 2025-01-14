@@ -1,6 +1,9 @@
 
 # 4 Alpha: EmptyBin
 
+![image](https://github.com/user-attachments/assets/e3f75847-a99c-4481-83f4-822504c3caa9)
+
+
 **4 Alpha: EmptyBin**  is a solution aimed at providing a smart waste management system to help automate the process of identifying and managing waste levels in bins. By integrating technology and smart sensors, this project offers a more efficient way of managing waste disposal, ensuring timely waste collection, and minimizing environmental impact. This project was developed as part of the **Make-A-Ton 6.0** Hackathon held at CUSAT.
 
 
